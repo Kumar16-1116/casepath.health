@@ -1,6 +1,6 @@
 # CasePath
 
-**CasePath makes published cancer treatment statistics easier to explore.** It is a small, browser-based prototype created by **Kumaraswamy K.**, MSc Health Data Science.
+**CasePath is a browser-based project by Kumaraswamy K., MSc Health Data Science. It makes published cancer treatment statistics easier to explore and gives healthcare providers another source of information to consider during care discussions.**
 
 ## Why I created CasePath
 
@@ -51,3 +51,4 @@ CasePath is an educational web prototype, **not clinical advice or a treatment r
 - `assets/` — image assets
 
 Keep these files and folders together when hosting the site so the search and pages can load correctly.
+
