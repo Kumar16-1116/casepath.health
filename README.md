@@ -4,7 +4,7 @@
 
 ## Why I created CasePath
 
-A family member’s cancer-care experience inspired me to look for clearer ways to understand treatment information. During that experience, our family heard different care plans and found it difficult to compare them. I began wondering whether public cancer statistics could be easier to explore and discuss.
+My family member’s cancer-care experience inspired CasePath. As my family sought care, we heard different treatment plans and found them difficult to compare. This led me to explore whether public cancer statistics could be presented more clearly to support care discussions.
 
 CasePath is my response to that question: a simple way to browse published treatment patterns. It does not recommend care or replace conversations with a healthcare professional.
 
